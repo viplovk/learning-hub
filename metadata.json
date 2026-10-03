@@ -1,0 +1,7 @@
+{
+  "name": "IEC CSE Section C Study & Learning Hub",
+  "description": "Comprehensive academic learning hub, official AKTU syllabus, smart notes, active recall, question bank, exam prep, and AI tutor for B.Tech CSE 2nd Year Section C students at IEC College of Engineering & Technology.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
